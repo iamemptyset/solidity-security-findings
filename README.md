@@ -1,2 +1,2 @@
-# solidity-smart-contract-security-findings
+# solidity-security-findings
 This repository contains all my competitive and private solidity smart contract security findings.
